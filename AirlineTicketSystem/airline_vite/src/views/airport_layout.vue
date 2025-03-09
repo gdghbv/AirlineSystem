@@ -42,7 +42,7 @@
                 <span>机场信息</span>
               </el-menu-item>
 
-              <el-menu-item >
+              <el-menu-item index="/">
                 <el-icon>
                   <Logout />
                 </el-icon>

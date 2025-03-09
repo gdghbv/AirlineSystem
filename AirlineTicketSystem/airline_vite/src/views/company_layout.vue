@@ -31,7 +31,7 @@
               <span>公司信息</span>
             </el-menu-item>
 
-            <el-menu-item >
+            <el-menu-item index="/">
                 <el-icon>
                   <Logout />
                 </el-icon>
